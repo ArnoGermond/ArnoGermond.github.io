@@ -9,13 +9,15 @@ authors:
   - Tomonobu M. Watanabe
 author_notes:
   - Equal contribution
-  - Equal contribution
+
 date: 2020-09-01T00:00:00Z
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 
 publication_types:
   - article-journal
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Analytical Chemistry"
+
 publication_short: ""
+
 abstract: Monitoring cell-state transition in pluripotent cells is invaluable
   for application and basic research. In this study, we demonstrate the
   pertinence of noninvasive, label-free Raman spectroscopy to monitor and
@@ -32,20 +34,25 @@ abstract: Monitoring cell-state transition in pluripotent cells is invaluable
   populations. The ability of monitoring pluripotency by Raman spectroscopy and
   distinguishing differences between ES and reprogrammed cells is also
   discussed.
-summary: embryonic stem cells and reprogrammed IPS have been thought to
+
+summary: Embryonic stem cells and reprogrammed IPS have been thought to
   represent the same cell state. Using an isogenic cell line, we brought further
   evidence of strong metabolic differences.
+
 tags:
-  - Source Themes
+  - Stem cell
+  - Raman spectroscopy
+
 featured: false
+
 hugoblox:
   ids:
     arxiv: 1512.04133v1
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: https://pubs.acs.org/doi/full/10.1021/acs.analchem.0c01800
   - type: code
-    url: https://github.com/HugoBlox/kit
+    url: 
   - type: dataset
     url: ""
   - type: poster
@@ -53,13 +60,13 @@ links:
   - type: project
     url: ""
   - type: slides
-    url: https://www.slideshare.net/
+    url: 
   - type: source
     url: ""
   - type: video
     url: ""
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
 projects: []
