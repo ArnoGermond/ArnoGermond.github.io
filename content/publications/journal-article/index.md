@@ -7,8 +7,8 @@ authors:
   - Mikio Shiga
   - Hirohiko Niioka
   - Tomonobu M. Watanabe
-author_notes:
-  - Equal contribution
+
+author_notes: ""
 
 date: 2020-09-01T00:00:00Z
 publishDate: 
