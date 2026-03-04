@@ -1,38 +1,46 @@
 ---
-title: "An example journal article"
+title: Following embryonic stem cells, their differentiated progeny, and
+  cell-state changes during iPS reprogramming by Raman spectroscopy
 authors:
-- me
-- Robert Ford
+  - Arno GERMOND
+  - Yulia Panina
+  - Mikio Shiga
+  - Hirohiko Niioka
+  - Tomonobu M. Watanabe
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
-
-# Publication name and optional abbreviated publication name.
+  - Equal contribution
+  - Equal contribution
+date: 2020-09-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00Z
+publication_types:
+  - article-journal
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract: Monitoring cell-state transition in pluripotent cells is invaluable
+  for application and basic research. In this study, we demonstrate the
+  pertinence of noninvasive, label-free Raman spectroscopy to monitor and
+  characterize the cell-state transition of mouse stem cells undergoing
+  reprogramming. Using an isogenic cell line of mouse stem cells, reprogramming
+  from neuronal cells was performed, and we showcase a comparative analysis of
+  living single-cell spectral data of the original stem cells, their neuronal
+  progenitors, and reprogrammed cells. Neural network, regression models, and
+  ratiometric analyses were used to discriminate the cell states and extract
+  several important biomarkers specific to differentiation or reprogramming. Our
+  results indicated that the Raman spectrum allowed us to build a
+  low-dimensional space allowing us to monitor and characterize the dynamics of
+  cell-state transition at a single-cell level, scattered in heterogeneous
+  populations. The ability of monitoring pluripotency by Raman spectroscopy and
+  distinguishing differences between ES and reprogrammed cells is also
+  discussed.
+summary: embryonic stem cells and reprogrammed IPS have been thought to
+  represent the same cell state. Using an isogenic cell line, we brought further
+  evidence of strong metabolic differences.
 tags:
-- Source Themes
+  - Source Themes
 featured: false
-
 hugoblox:
   ids:
     arxiv: 1512.04133v1
-
 links:
   - type: pdf
     url: http://arxiv.org/pdf/1512.04133v1
@@ -50,27 +58,13 @@ links:
     url: ""
   - type: video
     url: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
+
 ---
 
 > [!NOTE]

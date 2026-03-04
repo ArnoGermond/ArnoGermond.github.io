@@ -1,116 +1,73 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "Arno GERMOND, Ph.D."
+  given: "Arno"
+  family: "GERMOND"
+  alternate: ""
+  pronunciation: ""
+  pronouns: ""
 postnominals:
-  - PhD
-  - MIEEE
+  - "PhD"
+  - ""
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+role: "Principal Investigator in cell biology"
+bio: "My research team aims at deciphering mechanisms of cells, and working on real-life applications in food preservation.  To do so I employ bioimaging, molecular biology and AI. "
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: "INRAE"
+    url: ""
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "at-symbol"
+    url: "arnaud.germond  (at)  inrae.fr"
+    label: "E-mail Me"
+  - icon: "brands/github"
+    url: "https://github.com/example"
+  - icon: "brands/linkedin"
+    url: "https://fr.linkedin.com/in/arno-germond"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=odkxuuUAAAAJ&hl=en"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-2196-7566"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Cell Mechanism"
+  - "Food science"
+  - "Bioimaging"
+  - "AI"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+  - degree: "PhD in philosophy (science)"
+    institution: "Ehime University, Japan"
+    start: ""
+    end: "2013"
+    summary: ""
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  - role: "Research Scientist"
+    org: "RIKEN"
+    start: "2015.04"
+    end: "2021.04"
+    summary: "Worked on stem cell differentiation and reprogramming, antibiotic resistance in bacteria, and published 14 publications in 6 years.
 
+      Developped a label-free imaging approach coupled with AI to predict cell gene expression and functions in living cells."
+  - role: "Tenured researcher"
+    org: "INRAE"
+    start: "2021.05"
+    end: ""
+    summary: "Working on real life application in food science. "
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Python
+      - label: "Raman spectroscopy"
         level: 5
-      - label: Machine Learning
+      - label: "Molecular biology tools : qPCR, transcriptomic, enzymatic analyses"
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
+      - label: "Cell culture"
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+      - label: "Machine learning"
+        level: 5
+      - label: "Confocal bioimaging"
+        level: 5
+languages: []
+awards: []
+ids:
+  google_scholar: "https://scholar.google.com/citations?hl=fr&user=odkxuuUAAAAJ"
