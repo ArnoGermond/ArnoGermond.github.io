@@ -1,15 +1,17 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Blog test
+summary: xxx.
+date: 2026-03
 authors:
   - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Rama spectroscopy
+  - Machine learning
+  - Research
+  - Biology
+  - Academic
 cover:
-  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+  image: " "
   position:
     x: 50
     y: 40
@@ -24,12 +26,10 @@ cover:
   icon:
     name: "✨"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
-
-Use popular tools such as Plotly, Mermaid, and data frames.
+xxxx
 
 ## Embed Rich Content
 
