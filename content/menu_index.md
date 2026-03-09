@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026
 type: landing
 
 design:
@@ -20,9 +20,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'test'
+        education: 'education'
+        interests: 'interest'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
